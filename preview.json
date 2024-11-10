@@ -1,1 +1,1 @@
-{"Parameters":{"SEED":11}}
+{"Parameters":{"DELTA_T":100.0,"NUMBER_OF_SPRINGS":5,"PALETTE":[{"red":13.0,"green":17.0,"blue":16.0,"alpha":255.0},{"red":67.0,"green":36.0,"blue":26.0,"alpha":255.0},{"red":140.0,"green":92.0,"blue":67.0,"alpha":255.0},{"red":147.0,"green":128.0,"blue":110.0,"alpha":255.0},{"red":208.0,"green":206.0,"blue":193.0,"alpha":255.0}],"SPEED_LOW_THRESHOLD":0.001,"DAMPENING":0.1,"WIDTH":1000,"HEIGHT":1000,"MAX_ITERATIONS":10000,"OUTER_MARGIN":50,"BACKGROUND_COLOR":{"red":255.0,"green":255.0,"blue":255.0,"alpha":255.0}}}
